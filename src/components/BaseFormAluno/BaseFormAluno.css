@@ -1,0 +1,21 @@
+.form-content {
+    background-color: rgb(240, 240, 240);
+    border-radius: 20px;
+    width: 70%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.08);
+}
+.form-content form{
+    text-align: center;
+}
+.form-content label{
+    text-align: left;
+}
+
+.form-content img {
+    width: 32px;
+}
+
+.form-content table{
+   width: 100%;
+   /* text-align: center; */
+}

@@ -1,0 +1,40 @@
+.menu {
+    background-color: #D52941;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 250px;
+    margin: 0;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.08);
+}
+
+.menu img {
+    height: 35px;
+}
+
+.menu nav {
+    color: #fff;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 15px 15px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu li:hover {
+    background-color: #9e2333;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+  }

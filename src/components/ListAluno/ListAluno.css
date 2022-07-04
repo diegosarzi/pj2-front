@@ -1,0 +1,31 @@
+.list-content {
+    background-color: rgb(240, 240, 240);
+    border-radius: 20px;
+    width: 70%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.08);
+    padding: 30px
+}
+
+.list-content h2 {
+    text-align: center;
+}
+
+.list-content table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.list-content img {
+    width: 20px;
+}
+
+.list-content th {
+    background-color: #D52941;
+    color: #fff;
+}
+
+.list-content td, th {
+    padding: 10px;
+    text-align: center;
+    border: #D52941 1px solid;
+}
